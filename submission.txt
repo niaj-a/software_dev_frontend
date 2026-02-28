@@ -1,10 +1,8 @@
 ﻿Coursework Submission — Front-End Module
-Student: niaj-a
+Student: Niaj Ahmed
 Email: niajahmd19@gmail.com
 GitHub Repository:
 https://github.com/niaj-a/software_dev_frontend
-Live Deployed Site:
-https://niaj-a.github.io/software_dev_frontend
 Demo Video (Unlisted):
 https://youtu.be/dmQpiy-wMOE
 All required materials are available in the public repository:
