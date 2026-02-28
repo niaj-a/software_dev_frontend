@@ -1,4 +1,4 @@
-﻿# Learning Diary — niaj-a
+﻿# Learning Diary — Niaj Ahmed
 ## 2026-02-24
 **What I worked on:** Set up repository, created project scaffold (index, css, js).  
 **What I learned:** Basic project structure, using PowerShell to create files, initial commits.  
