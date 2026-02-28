@@ -1,5 +1,5 @@
 ﻿# Farm Crop Manager — niaj-a
-Student: niaj-a  
+Student: Niaj Ahmed 
 Email: niajahmd19@gmail.com  
 GitHub Repository: https://github.com/niaj-a/software_dev_frontend  
 Demo Video (Unlisted YouTube):  
