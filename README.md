@@ -2,8 +2,6 @@
 Student: niaj-a  
 Email: niajahmd19@gmail.com  
 GitHub Repository: https://github.com/niaj-a/software_dev_frontend  
-Live Deployed Website:  
-https://niaj-a.github.io/software_dev_frontend  
 Demo Video (Unlisted YouTube):  
 https://youtu.be/dmQpiy-wMOE  
 ---
